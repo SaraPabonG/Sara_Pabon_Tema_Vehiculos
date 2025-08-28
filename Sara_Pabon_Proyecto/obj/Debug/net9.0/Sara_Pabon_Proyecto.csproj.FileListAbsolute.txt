@@ -1,0 +1,15 @@
+C:\Users\USER\Sara_Pabon_Tema_Vehiculos\Sara_Pabon_Proyecto\bin\Debug\net9.0\Sara_Pabon_Proyecto.exe
+C:\Users\USER\Sara_Pabon_Tema_Vehiculos\Sara_Pabon_Proyecto\bin\Debug\net9.0\Sara_Pabon_Proyecto.deps.json
+C:\Users\USER\Sara_Pabon_Tema_Vehiculos\Sara_Pabon_Proyecto\bin\Debug\net9.0\Sara_Pabon_Proyecto.runtimeconfig.json
+C:\Users\USER\Sara_Pabon_Tema_Vehiculos\Sara_Pabon_Proyecto\bin\Debug\net9.0\Sara_Pabon_Proyecto.dll
+C:\Users\USER\Sara_Pabon_Tema_Vehiculos\Sara_Pabon_Proyecto\bin\Debug\net9.0\Sara_Pabon_Proyecto.pdb
+C:\Users\USER\Sara_Pabon_Tema_Vehiculos\Sara_Pabon_Proyecto\obj\Debug\net9.0\Sara_Pabon_Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Sara_Pabon_Tema_Vehiculos\Sara_Pabon_Proyecto\obj\Debug\net9.0\Sara_Pabon_Proyecto.AssemblyInfoInputs.cache
+C:\Users\USER\Sara_Pabon_Tema_Vehiculos\Sara_Pabon_Proyecto\obj\Debug\net9.0\Sara_Pabon_Proyecto.AssemblyInfo.cs
+C:\Users\USER\Sara_Pabon_Tema_Vehiculos\Sara_Pabon_Proyecto\obj\Debug\net9.0\Sara_Pabon_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\USER\Sara_Pabon_Tema_Vehiculos\Sara_Pabon_Proyecto\obj\Debug\net9.0\Sara_Pabon_Proyecto.sourcelink.json
+C:\Users\USER\Sara_Pabon_Tema_Vehiculos\Sara_Pabon_Proyecto\obj\Debug\net9.0\Sara_Pabon_Proyecto.dll
+C:\Users\USER\Sara_Pabon_Tema_Vehiculos\Sara_Pabon_Proyecto\obj\Debug\net9.0\refint\Sara_Pabon_Proyecto.dll
+C:\Users\USER\Sara_Pabon_Tema_Vehiculos\Sara_Pabon_Proyecto\obj\Debug\net9.0\Sara_Pabon_Proyecto.pdb
+C:\Users\USER\Sara_Pabon_Tema_Vehiculos\Sara_Pabon_Proyecto\obj\Debug\net9.0\Sara_Pabon_Proyecto.genruntimeconfig.cache
+C:\Users\USER\Sara_Pabon_Tema_Vehiculos\Sara_Pabon_Proyecto\obj\Debug\net9.0\ref\Sara_Pabon_Proyecto.dll

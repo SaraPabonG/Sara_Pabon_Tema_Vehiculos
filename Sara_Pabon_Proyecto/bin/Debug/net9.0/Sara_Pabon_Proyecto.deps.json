@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Sara_Pabon_Proyecto/1.0.0": {
+        "runtime": {
+          "Sara_Pabon_Proyecto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sara_Pabon_Proyecto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
